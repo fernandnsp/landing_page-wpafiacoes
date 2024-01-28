@@ -1,0 +1,15 @@
+.footer {
+    width: 100%;
+    margin-top: 3rem;
+    padding: 1rem 0;
+    background-color: var(--black-color-2);
+}
+.footer__text {
+    color: var(--white-color);
+    font-size: 0.875rem;
+    text-align: center;
+    margin: 0;
+}
+.footer__link {
+    color: var(--gray-color-1);
+}
